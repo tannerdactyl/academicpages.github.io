@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Tanner Hendrickson"
   avatar           : "headshot.JPG"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Writer, Critic, Editor, Actor"
   location         : "Chicago, IL"
   employer         : "Stately Play"
   googlescholar    : 
@@ -108,7 +108,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/channel/UCoOtrZvPvnEM4tp6ynaPLYw"
   wikipedia        :
 
 

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Tanner Hendrickson can work for you!"
+title: "Tanner Hendrickson"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Tanner Hendrickson
-======
 This is my website!

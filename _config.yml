@@ -79,10 +79,10 @@ analytics:
 # Site Author
 author:
   name             : "Tanner Hendrickson"
-  avatar           : "profile.png"
+  avatar           : "headshot.JPG"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Chicago, IL"
-  employer         :
+  employer         : "Stately Play"
   googlescholar    : 
   email            : "i.am@tannerhendrickson.com"
   uri              :
@@ -97,7 +97,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "tanner-hendrickson-4b635a107"
   orcid            : 
   pinterest        :
   soundcloud       :

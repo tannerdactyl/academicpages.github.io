@@ -11,20 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in Radio, Television, and Film, Northwestern University, 2015
+* B.S. in Radio, Television, and Film; Northwestern University, 2015
 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2016-Present: Reviews Editor
+  * Stately Play
+  * Duties included: Reviewing video games, writing up the occasional news post
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2015-2016: Freelance Critic
+  * Pocket Tactics
+  * Duties included: Reviewing iOS games as assigned
+  
   
 Skills
 ======

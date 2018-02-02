@@ -10,12 +10,12 @@ redirect_from:
 {% include base_path %}
 
 ##Education
-======
+
 * B.S. in Radio, Television, and Film; Northwestern University, 2015
 
 
 ##Work experience
-======
+
 * 2016-Present: Reviews Editor
   * Stately Play
   * Duties included: Reviewing video games, writing up the occasional news post
@@ -26,7 +26,7 @@ redirect_from:
   
   
 ##Skills
-======
+
 * Skill 1
 * Skill 2
   * Sub-skill 2.1

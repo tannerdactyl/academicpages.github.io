@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+##Education
 ======
 * B.S. in Radio, Television, and Film; Northwestern University, 2015
 
 
-Work experience
+##Work experience
 ======
 * 2016-Present: Reviews Editor
   * Stately Play
@@ -25,7 +25,7 @@ Work experience
   * Duties included: Reviewing iOS games as assigned
   
   
-Skills
+##Skills
 ======
 * Skill 1
 * Skill 2
@@ -34,10 +34,4 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 

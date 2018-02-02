@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 ##Education
 ======
 * B.S. in Radio, Television, and Film; Northwestern University, 2015

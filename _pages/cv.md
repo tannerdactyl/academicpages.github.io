@@ -7,12 +7,12 @@ redirect_from:
   - /resume
 ---
 
-##Education
+Education
 ======
 * B.S. in Radio, Television, and Film; Northwestern University, 2015
 
 
-##Work experience
+Work experience
 ======
 * 2016-Present: Reviews Editor
   * Stately Play
@@ -23,7 +23,7 @@ redirect_from:
   * Duties included: Reviewing iOS games as assigned
   
   
-##Skills
+Skills
 ======
 * Skill 1
 * Skill 2
